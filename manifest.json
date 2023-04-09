@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Wild-Goose",
+    "version": "1.0.1",
+    "action": {
+        "default_popup" : "popup.html"
+    },
+    "permissions": ["activeTab"],
+    "description": "Quickly determine if a movie is available on Netflix and in specific regions."
+  }
