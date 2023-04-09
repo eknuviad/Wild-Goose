@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Wild-Goose",
+    "name": "FlickCheck",
     "version": "1.0.1",
     "action": {
         "default_popup" : "popup.html"
